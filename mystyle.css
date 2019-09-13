@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+#bold {
+    font-weight: bold;
+}
+#fontfam {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#bigo {
+    font-size: 200%;
+    color: orange;
+    font-weight: bold;
+}
+.styledFont {
+    font-style: oblique;
+}
+#styledImage {
+    border: 25px solid;
+    padding: 15px round;
+    border-image: url(border.png) 20%;
+    border-color:rgb(187, 43, 223); 
+}
